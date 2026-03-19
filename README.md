@@ -8,7 +8,14 @@ Small detail… big difference.
 
 ## ✨ Preview
 
-![Preview](preview.gif)
+
+
+
+
+https://github.com/user-attachments/assets/13a71a70-a8c2-4bd4-90ef-13790ae5afc5
+
+
+
 
 ---
 
