@@ -42,4 +42,4 @@ Micro-interactions like this make your UI feel more alive and premium.
 
 1. Clone this repo
 ```bash
-git clone
+git clone https://github.com/Randymaulana03/hamburger-smooth-transition.git
